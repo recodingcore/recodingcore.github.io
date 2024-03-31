@@ -1,13 +1,6 @@
 
 <!--![re·coding·core](./re·coding·core.png)-->
-<center>
   
 <img src="./re·coding·core.png" alt="re·coding·core" width="125" height="126" >
 
-<br />
-
 ```re·coding·core```
-
-<br />
-
-</center>
