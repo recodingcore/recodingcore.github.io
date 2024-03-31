@@ -1,1 +1,1 @@
-# recodingcore.github.io
+# recodingcore basic page
