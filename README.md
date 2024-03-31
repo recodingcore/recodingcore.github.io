@@ -1,1 +1,9 @@
-# recodingcore basic page
+
+<!--![re·coding·core](./re·coding·core.png)-->
+<center>
+  
+<img src="./re·coding·core.png" alt="re·coding·core" width="125" height="126" >
+
+```re·coding·core```
+
+</center>
